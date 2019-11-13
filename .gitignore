@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+venv
+local.env
+/static
+/media
+/.idea
+.DS_Store
